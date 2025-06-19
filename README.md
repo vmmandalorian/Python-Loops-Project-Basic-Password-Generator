@@ -10,7 +10,7 @@ Download demo / RAW code at https://github.com/vmmandalorian/Python-Loops-Projec
 
 2-1 Future updates
 2-2 Minimalization of code using import functions e.i import ascii_lowercase  and alike
-2-3 Will have to make a GUI via Thinker or Canva API 
+2-3 Will have to make a GUI via tkinter  or Canva API 
 2-4 Will have to be like a LastPass App
 
 Creator notes
